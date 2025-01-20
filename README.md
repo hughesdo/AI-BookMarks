@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>AI (Video and Pic) Bookmark Hierarchy</title>
+
   
   <!-- Twitter Card meta tags -->
   <meta name="twitter:card" content="summary_large_image">
@@ -18,30 +18,7 @@
   <meta property="og:url" content="https://example.com/your-hosted-page.html">
   <meta property="og:type" content="website">
 
-  <!-- Some basic styling (optional) -->
-  <style>
-    body {
-      font-family: sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-    }
-    ul {
-      list-style-type: none;
-      padding-left: 1em;
-    }
-    li strong {
-      color: #333;
-    }
-    li a {
-      text-decoration: none;
-      color: #1a0dab;
-    }
-    li a:hover {
-      text-decoration: underline;
-    }
-  </style>
-</head>
-<body>
+ 
   <!-- Your bookmark hierarchy content -->
   <ul>
     <li><strong>AI (Video and Pic)</strong>
